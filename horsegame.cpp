@@ -7,5 +7,6 @@ void printLane(int horseNum, int* horses);
 bool isWinner(int horseNum, int* horses);
 
 int main(){
-  int horses[5];
+  int horses[5] = {0,0,0,0,0};
+  bool keepGoing = true
 }// end main
